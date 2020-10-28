@@ -3,7 +3,7 @@
 
 <html>
 <head>
-    <link rel="css" href="index.css">
+    <link rel="stylesheet" href="stylesheet.css">
     <meta charset="UTF-8">
     <title>Monkey Business</title>
 </head>
