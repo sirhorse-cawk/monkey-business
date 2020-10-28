@@ -41,7 +41,7 @@ $apen[] = "Spinaap";
 <img src="img/monkey_swings.png" alt="monkey_swings">
 
 <?php foreach($apen as $aap) { ?>
-    <p <?php echo $aap; ?> </p>
+    <p> <?php echo $aap; ?> </p>
 <?php } ?>
 
 </body>
