@@ -41,7 +41,8 @@ $apen[] = "Spinaap";
 <img src="img/monkey_swings.png" alt="monkey_swings">
 
 <?php foreach($apen as $aap) { ?>
-    <p> <?php echo $aap; ?> </p>
+    <a href="https://www.google.nl/search?q=<?php echo $aap; ?>&tbm=isch"><?php echo $aap; ?></a><br>
+
 <?php } ?>
 
 </body>
