@@ -38,10 +38,11 @@ $apen[] = "Spinaap";
 
 <h2> Select your monkey! </h2>
 
-<img src="img/monkey_swings.png" alt="monkey_swings">
+<img src="img/monkey_swings.png" alt="monkey_swings"> <br>
 
 <?php foreach($apen as $aap) { ?>
-    <a href="https://www.google.nl/search?q=<?php echo $aap; ?>&tbm=isch"><?php echo $aap; ?></a><br>
+
+    <a href="https://www.google.nl/search?q=<?php echo $aap; ?>&tbm=isch"><?php echo $aap; ?></a> <br>
 
 <?php } ?>
 
